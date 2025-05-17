@@ -6,4 +6,8 @@ class summer{
     int fun(int money){
         System.out.println("amount of fun = "+money);
     }
+
+    void MANGO(){
+        System.out.println("Mnagoes are fun to eat");
+    }
 }
