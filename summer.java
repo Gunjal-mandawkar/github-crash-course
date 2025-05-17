@@ -9,5 +9,6 @@ class summer{
 
     void MANGO(){
         System.out.println("Mnagoes are fun to eat");
+        System.out.println("Mangoes");
     }
 }
