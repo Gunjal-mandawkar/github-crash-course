@@ -2,7 +2,8 @@ class summer{
     String ice;
     int money;
     int heat;
-    summer(String ice){
-        this.ice = ice;
+
+    int fun(int money){
+        System.out.println("amount of fun = "+money);
     }
 }
