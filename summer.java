@@ -11,4 +11,7 @@ class summer{
         System.out.println("Mnagoes are fun to eat");
         System.out.println("Mangoes");
     }
+    void VACATIONS(){
+        System.out.println("Vacation are the best part about summers");
+    }
 }
